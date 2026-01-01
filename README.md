@@ -58,7 +58,7 @@ Berikut adalah penjelasan fungsi dari setiap file dalam repository ini:
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/Rombon07/Proyek-Analisis-Sentimen-Aplikasi_Spotify-Yustianas_Rombon.git] ( git@github.com:Rombon07/Proyek-Analisis-Sentimen-Aplikasi_Spotify-Yustianas_Rombon.git)
+    git clone [https://github.com/Rombon07/Proyek-Analisis-Sentimen-Aplikasi_Spotify-Yustianas_Rombon.git]
     ```
 
 2.  **Install Library**
